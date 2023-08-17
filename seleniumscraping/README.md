@@ -72,3 +72,7 @@ This Python script uses the Selenium library to scrape data from a website and s
 - Customize the `website` URL according to your needs.
 - Always adhere to the website's terms of use and scraping policies.
 - This script serves an educational purpose and might require modifications for different websites.
+
+## Working Video:
+- [Screencast from 17-08-23 04:02:21 PM IST.webm](https://github.com/MdNazishArmanShorthillsAI/PracticeRepository/assets/142379599/57e323bd-1323-41b2-9bfc-3e89b19904e3)
+
